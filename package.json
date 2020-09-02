@@ -1,0 +1,25 @@
+{
+  "name": "damientheleper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuynguyen-nht/DamienTheLeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuynguyen-nht/DamienTheLeper/issues"
+  },
+  "homepage": "https://github.com/thuynguyen-nht/DamienTheLeper#readme"
+}
